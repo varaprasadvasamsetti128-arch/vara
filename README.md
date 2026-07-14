@@ -4,12 +4,6 @@
   - Banner, badges, tags, project list, stats and contact
   Replace the placeholders (projects, links, social handles) with your actual content.
 -->
-
-<p align="center">
-  <!-- Banner image (replace the URL with your banner image or repo asset) -->
-  <img src="https://source.unsplash.com/1600x400/?technology,coding" alt="banner" width="100%"/>
-</p>
-
 <p align="center">
   <!-- Circular profile image using GitHub avatar; adjust width as needed -->
   <img src="https://github.com/varaprasadvasamsetti128-arch.png" alt="Profile" width="140" style="border-radius:50%; display:block; margin:auto;" />
