@@ -43,9 +43,9 @@ A brief description of what this repository holds and the goals of the projects 
 ## Projects
 A short, attractive listing of your top projects. For each project, include a one-line summary and a link to the project/demo.
 
-- [Project One](https://github.com/varaprasadvasamsetti128-arch/chess/) — A short description of what this project does and the key tech used.
-- [Project Two](https://github.com/varaprasadvasamsetti128-arch/remo/) — Another short description, highlight any demo link or live site.
-- [Project Three](https://github.com/varaprasadvasamsetti128-arch/prasad/) — One-liner about purpose and technologies.
+- [Project One](https://varaprasadvasamsetti128-arch.github.io/chess/) — A short description of what this project does and the key tech used.
+- [Project Two](https://varaprasadvasamsetti128-arch.github.io/remo/) — Another short description, highlight any demo link or live site.
+- [Project Three](https://varaprasadvasamsetti128-arch.github.io/PRASAD/) — One-liner about purpose and technologies.
 
 (Replace with your actual projects and links.)
 
